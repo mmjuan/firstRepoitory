@@ -1,2 +1,2 @@
 # firstRepoitory
-This is my first repository to teach github
+This is my first repoSSSSitory to teach github
